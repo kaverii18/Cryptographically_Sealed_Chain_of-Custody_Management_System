@@ -1,0 +1,6 @@
+{
+  "name": "SealChain",
+  "description": "Cryptographically Sealed Chain of Custody Management System for digital forensics with SHA-256 evidence hashing and ECDSA-signed tamper-evident ledger.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
